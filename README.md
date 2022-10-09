@@ -1,2 +1,2 @@
 # HDSC Capstone Project Summer 22
- This is the repositiry for the Hamoye Data Science Internship Summer 2022
+ This is the repository for the Hamoye Data Science Internship Summer 2022
